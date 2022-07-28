@@ -37,7 +37,7 @@ time.sleep(1.5)
 auto.click()
 
 #Actual Record
-time.sleep(7)
+time.sleep(6.15)
 auto.hotkey('playpause')
 time.sleep(.9)
 auto.hotkey('ctrl', 'shift', 'd')
@@ -45,3 +45,4 @@ auto.hotkey('ctrl', 'shift', 'd')
 
 
 
+#1942
